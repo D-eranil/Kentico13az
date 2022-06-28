@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'DancingGoatCore'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DAFB30852A7745C49A125C1049EF4CC8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDD32A2DC691469989012D677D20A6C3 }}
           package: .
